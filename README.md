@@ -1,2 +1,3 @@
 # MyTextEdit
-Basic Text editor using Python and TKinter
+A very basic Text editor using Python and TKinter
+working to enhance it as much as possible
